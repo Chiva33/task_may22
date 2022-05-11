@@ -20,3 +20,5 @@ void PrintArray(string[] array)
     }
     Console.WriteLine();
 }
+arraySecondOut(arrayFirst, arraySecond);
+PrintArray(arraySecond);
